@@ -1,0 +1,8 @@
+{
+"Comment":
+  "Note that these overlap by a significant amount, that's necessary to be able to patch them together. If one individual range is longer than about 6 months it won't return daily data. So make sure each block is short enough. Note that the script as currently written will only use the item 'timeframe' in the top-level json dictionary; everything else in here is for documentation. The alternate time frame item here is included to show the only way to get hourly data. Hourly data is not available for any time more than 7 days ago.",
+
+"timeframe": ["2016-05-01 2016-11-01", "2016-10-01 2017-04-01", "2017-03-01 2017-06-05"],
+
+"demo_timeframe": ["now 7-d"]
+}

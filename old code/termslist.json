@@ -1,0 +1,114 @@
+{
+"Trump_Health":
+["donald trump health", "donald trump strength", "donald trump healthy", "donald trump ill", "donald trump sick", "donald trump unhealthy", "donald trump pneumonia", "donald trump weak", "donald trump faint", "donald trump faints", "donald trump seizure", "trump health", "trump strength", "trump healthy", "trump ill", "trump sick", "trump unhealthy", "trump pneumonia", "trump weak", "trump faint", "trump faints", "trump seizure", "trump coma", "trump stroke"]
+,
+"Trump_Dementia":
+["donald trump dementia", "donald trump senile", "donald trump alzheimers", "donald trump unfit", "trump dementia", "trump senile", "trump alzheimers", "trump unfit"]
+,
+"Trump_Intelligence":
+["donald trump intelligence", "donald trump intelligent", "donald trump stupid", "donald trump moron", "donald trump idiot", "donald trump dumb", "donald trump fool", "trump intelligence", "trump intelligent", "trump stupid", "trump moron", "trump idiot", "trump imbecile", "trump dumb", "trump fool"]
+,
+"Trump_Campaign":
+["donald trump campaign", "donald trump rally", "donald trump event", "donald trump speech", "donald trump supporter", "donald trump supporters", "trump campaign", "trump rally", "trump event", "trump speech", "trump supporter", "trump supporters", "vote trump", "trump election", "endorse trump", "endorsed trump", "trump inauguration", "donald trump inauguration", "trump electoral college", "trump electoral college victory", "donald trump electoral college", "donald trump electoral college victory"]
+,
+"Trump_Misc":
+["donald trump golf", "donald trump suit", "donald trump dinner", "donald trump conference", "donald trump travel", "donald trump limo", "donald trump bus", "donald trump car", "donald trump hand", "donald trump suit", "donald trump pizza", "donald trump burger", "donald trump steak", "donald trump cake", "donald trump book", "trump golf", "trump suit", "trump dinner", "trump conference", "trump travel", "trump limo", "trump bus", "trump car", "trump hand", "trump suit", "trump pizza", "trump burger", "trump steak", "trump cake", "trump book"]
+,
+"Trump_Scandal":
+["donald trump scandal", "donald trump crime", "donald trump criminal", "donald trump treason", "donald trump traitor", "donald trump collusion", "donald trump complicit", "donald trump benghazi", "donald trump private server", "donald trump emails", "donald trump russia", "donald trump putin", "donald trump fraud", "donald trump money laundering", "donald trump bankrupt", "donald trump bankruptcy", "donald trump scam", "donald trump crook", "donald trump crooked", "donald trump nazi", "donald trump white supremacist", "donald trump hate", "donald trump pussy", "donald trump grab em by the pussy", "donald trump protest", "donald trump mob", "donald trump mafia", "trump scandal", "trump crime", "trump criminal", "trump treason", "trump traitor", "trump collusion", "trump complicit", "trump benghazi", "trump private server", "trump emails", "trump russia", "trump putin", "trump fraud", "trump money laundering", "trump bankrupt", "trump bankruptcy", "trump scam", "trump crook", "trump crooked", "trump nazi", "trump white supremacist", "trump hate", "trump pussy", "trump grab em by the pussy", "trump protest", "trump mob", "trump mafia", "trump russians oval office", "trump leaks", "trump unmasking", "trump fisa", "trump classified leak", "trump leak intelligence", "trump leak classified intelligence", "donald trump russian collusion", "trump russian collusion"]
+,
+"Trump_Impeach":
+["donald trump impeach", "donald trump impeachment", "donald trump unfit", "trump impeach", "trump impeachment", "trump emoluments", "trump unfit"]
+,
+"Trump":
+["donald trump", "trump", "president trump", "trump admin", "melania trump", "ivanka trump", "trump tower"]
+,
+"Hillary_Health":
+["hillary health", "hillary strength", "hillary healthy", "hillary ill", "hillary sick", "hillary unhealthy", "hillary pneumonia", "hillary weak", "hillary faint", "hillary faints", "hillary seizure", "hillary seizure disorder", "hillary coma", "hillary stroke", "hillary clinton health", "hillary clinton strength", "hillary clinton healthy", "hillary clinton ill", "hillary clinton sick", "hillary clinton unhealthy", "hillary clinton pneumonia", "hillary clinton weak", "hillary clinton faint", "hillary clinton faints", "hillary clinton seizure", "hillary clinton seizure disorder", "hillary clinton coma", "hillary clinton stroke", "hillary stumble", "hillary clinton stumble"]
+,
+"Hillary_Dementia":
+["hillary dementia", "hillary alzheimers", "hillary clinton dementia", "hillary clinton alzheimers"]
+,
+"Hillary_Intelligence":
+["hillary intelligence", "hillary stupid", "hillary idiot", "hillary dumb", "hillary fool", "hillary clinton intelligence", "hillary clinton stupid", "hillary clinton idiot", "hillary clinton dumb"]
+,
+"Hillary_Campaign":
+["hillary campaign", "hillary rally", "hillary event", "hillary speech", "hillary supporter", "hillary supporters", "hillary clinton campaign", "hillary clinton rally", "hillary clinton event", "hillary clinton speech", "hillary clinton supporter", "hillary clinton supporters", "secretary clinton speech", "secretary of state hillary clinton speech", "vote hillary", "hillary election", "endorse hillary", "endorsed hillary"]
+,
+"Hillary_Misc":
+["hillary golf", "hillary suit", "hillary dinner", "hillary conference", "hillary travel", "hillary bus", "hillary car", "hillary hand", "hillary suit", "hillary pizza", "hillary burger", "hillary steak", "hillary cake", "hillary book", "hillary clinton golf", "hillary clinton suit", "hillary clinton dinner", "hillary clinton conference", "hillary clinton travel", "hillary clinton bus", "hillary clinton car", "hillary clinton hand", "hillary clinton suit", "hillary clinton pizza", "hillary clinton burger", "hillary clinton steak", "hillary clinton cake", "hillary clinton book"]
+,
+"Hillary_Scandal":
+["hillary scandal", "hillary crime", "hillary criminal", "hillary treason", "hillary traitor", "hillary collusion", "hillary benghazi", "hillary private server", "hillary emails", "hillary russia", "hillary putin", "hillary fraud", "hillary money laundering", "hillary bankrupt", "hillary bankruptcy", "hillary scam", "hillary crook", "hillary crooked", "hillary nazi", "hillary hate", "hillary pussy", "hillary protest", "hillary mob", "hillary mafia", "hillary clinton scandal", "hillary clinton crime", "hillary clinton criminal", "hillary clinton treason", "hillary clinton traitor", "hillary clinton collusion", "hillary clinton benghazi", "hillary clinton private server", "hillary clinton emails", "hillary clinton russia", "hillary clinton putin", "hillary clinton fraud", "hillary clinton money laundering", "hillary clinton bankrupt", "hillary clinton bankruptcy", "hillary clinton scam", "hillary clinton crook", "hillary clinton crooked", "hillary clinton nazi", "hillary clinton hate", "hillary clinton pussy", "hillary clinton protest", "hillary clinton mob", "hillary clinton mafia", "crooked hillary criminal", "crooked hillary emails", "secretary clinton benghazi", "secretary clinton emails", "secretary of state hillary clinton benghazi"]
+,
+"Hillary_Impeach":
+["hillary impeach", "hillary impeachment", "hillary unfit", "hillary clinton impeach", "hillary clinton impeachment", "hillary clinton unfit"]
+,
+"Hillary":
+["hillary", "hillary clinton", "crooked hillary", "secretary clinton", "secretary of state hillary clinton"]
+,
+"Obama_Health":
+["obama health", "obama strength", "obama healthy", "obama ill", "obama sick", "obama pneumonia", "obama weak", "obama faint", "obama faints", "obama seizure", "barack obama health", "barack obama sick", "president obama health", "president obama sick", "president obama weak"]
+,
+"Obama_Intelligence":
+["obama intelligence", "obama stupid", "obama moron", "obama idiot", "obama dumb", "obama fool", "barack obama stupid", "barack obama idiot", "president obama intelligence"]
+,
+"Obama_Campaign":
+["obama campaign", "obama rally", "obama event", "obama speech", "obama supporter", "obama supporters", "barack obama campaign", "barack obama rally", "barack obama event", "barack obama speech", "barack obama supporter", "barack obama supporters", "president obama campaign", "president obama rally", "president obama speech", "president obama supporter", "president obama supporters", "obama handoff", "obama hand over", "obama inauguration", "obama farewell"]
+,
+"Obama_Misc":
+["obama golf", "obama suit", "obama dinner", "obama conference", "obama travel", "obama limo", "obama bus", "obama car", "obama hand", "obama suit", "obama pizza", "obama burger", "obama steak", "obama cake", "obama book", "barack obama golf", "barack obama suit", "barack obama dinner", "barack obama conference", "barack obama travel", "barack obama limo", "barack obama bus", "barack obama car", "barack obama hand", "barack obama suit", "barack obama pizza", "barack obama burger", "barack obama cake", "barack obama book", "president obama golf", "president obama suit", "president obama dinner", "president obama conference", "president obama travel", "president obama limo", "president obama bus", "president obama car", "president obama hand", "president obama suit", "president obama pizza", "president obama burger", "president obama cake", "president obama book"]
+,
+"Obama_Scandal":
+["obama scandal", "obama crime", "obama criminal", "obama treason", "obama traitor", "obama benghazi", "obama private server", "obama emails", "obama russia", "obama putin", "obama fraud", "obama money laundering", "obama bankrupt", "obama bankruptcy", "obama scam", "obama crook", "obama crooked", "obama nazi", "obama white supremacist", "obama hate", "obama pussy", "obama protest", "obama mob", "obama mafia", "barack obama scandal", "barack obama crime", "barack obama benghazi", "barack obama emails", "barack obama russia", "barack obama putin", "barack obama fraud", "barack obama nazi", "barack obama hate", "barack obama pussy", "barack obama protest", "president obama scandal", "president obama benghazi", "president obama emails", "president obama russia", "president obama putin", "president obama hate", "president obama pussy", "president obama protest", "obama leaks", "obama unmasking", "obama classified bin laden"]
+,
+"Obama_Impeach":
+["obama impeach", "obama impeachment", "obama unfit", "barack obama impeach", "barack obama impeachment", "president obama impeach", "president obama impeachment", "president obama unfit"]
+,
+"Obama":
+["obama", "barack obama", "president obama", "michelle obama", "senator obama", "nobama", "obummer", "barack hussein obama", "butobama"]
+,
+"Putin_Health":
+["putin health", "putin ill", "putin sick", "vladimir putin health", "vladimir putin ill", "vladimir putin sick"]
+,
+"Putin_Intelligence":
+["putin intelligence", "putin stupid", "putin idiot"]
+,
+"Putin_Campaign":
+["putin campaign", "putin rally", "putin event", "putin speech", "putin supporters", "vladimir putin speech"]
+,
+"Putin_Misc":
+["putin golf", "putin suit", "putin dinner", "putin conference", "putin travel", "putin limo", "putin bus", "putin car", "putin hand", "putin suit", "putin pizza", "putin burger", "putin cake", "putin book", "vladimir putin conference", "vladimir putin limo", "vladimir putin car", "vladimir putin book"]
+,
+"Putin_Scandal":
+["putin scandal", "putin criminal", "putin treason", "putin benghazi", "putin emails", "putin russia", "putin fraud", "putin money laundering", "putin nazi", "putin hate", "putin pussy", "putin protest", "putin mafia", "vladimir putin scandal", "vladimir putin emails", "vladimir putin russia", "vladimir putin putin", "vladimir putin protest"]
+,
+"Putin_Impeach":
+["putin impeachment"]
+,
+"Putin":
+["putin", "vladimir putin"]
+,
+"Health":
+["health", "strength", "healthy", "ill", "sick", "unhealthy", "pneumonia", "weak", "faint", "faints", "seizure", "seizure disorder", "coma", "stroke"]
+,
+"Dementia":
+["dementia", "senility", "senile", "alzheimers", "cognitive impairment"]
+,
+"Intelligence":
+["intelligence", "intelligent", "stupid", "moron", "idiot", "imbecile", "dumb", "fool"]
+,
+"Campaign":
+["campaign", "rally", "event", "speech", "supporter", "supporters", "vote", "election", "polls", "polling place", "election results", "electoral college", "electoral college victory"]
+,
+"Misc":
+["golf", "suit", "dinner", "conference", "travel", "limo", "bus", "car", "hand", "suit", "pizza", "burger", "steak", "cake", "book", "christmas", "holiday", "vacation", "new year", "hanukkah", "family", "hearth", "yule", "cozy", "weekday", "business", "workday"]
+,
+"Scandal":
+["scandal", "crime", "criminal", "treason", "traitor", "collusion", "complicit", "benghazi", "private server", "emails", "russia", "putin", "fraud", "money laundering", "bankrupt", "bankruptcy", "scam", "crook", "crooked", "nazi", "white supremacist", "hate", "pussy", "grab em by the pussy", "susan rice unmasking", "unmasking", "fisa", "susan rice fisa", "voter fraud", "election fraud", "voter suppression", "recused", "sessions recused", "chaffetz", "nunes recused", "special prosecutor", "special prosecutor mueller", "rod rosenstein", "devin nunes", "devin nunes leak", "person of interest", "kushner person of interest", "comey firing", "fired comey"]
+,
+"Current":
+["deep state", "deep state terrorist", "terrorist", "terrorism", "seth rich", "susan rice", "leaks", "unmasking", "comey", "podesta", "roger stone", "carter page", "mike flynn", "covfefe", "paris accord", "environment", "kislyak", "manafort", "kompromat", "pee tape", "dossier", "steele dossier", "christopher steele", "brzezinsky", "comey memo", "comey testify", "comey hearing", "panetta", "nothingburger", "deplorables", "basket of deplorables", "neera tanden", "bernie sanders", "jill stein", "jill stein putin", "bernie sanders putin", "bernie sanders russia", "jill stein russia", "trump immigration ban", "trump muslim ban", "trump immigration ban protest", "trump muslim ban protest", "womens march", "march for science", "trump protest", "trump protests"],
+"Current2":
+["border wall", "muslim ban", "travel ban", "immigration ban", "federal judge", "appeals court", "struck down", "temporary restraining order", "terrorist attack", "reichstag fire", "authoritarian", "authoritarianism", "election meddling", "election influence", "kek", "pepe", "pede", "redpill", "cuck", "globalist", "globalism", "handcuffs", "steve bannon", "breitbart news", "fox news", "faux news", "fake news", "job search", "unemployment", "employment", "employment agency", "food stamps", "ahca", "obamacare", "repeal and replace", "repeal obamacare", "save obamacare", "save aca", "save medicare", "save medicaid", "medicare", "medicaid", "wikileaks", "wikileaks emails", "wikileaks dump", "assange", "julian assange", "macron", "le pen", "french election", "ossoff", "john ossoff", "karen handel", "ga06 special election", "syria", "syria hoax", "syria airstrike", "syria chemical attack", "wiretapping", "wires tapped", "trump wiretap", "trump wires tapped", "tapp"]
+}
